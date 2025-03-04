@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.thongtin {
+    margin: 10px 0;
+}
+
+.profile-image {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.profile-image img {
+    width: 150px; /* Adjust the size as needed */
+    height: auto;
+    border-radius: 50%; /* Makes the image circular */
+    border: 2px solid #000; /* Adds a border around the image */
+}
